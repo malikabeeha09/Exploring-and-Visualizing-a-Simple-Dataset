@@ -28,10 +28,7 @@ Used `pandas.read_csv()` to load the dataset into a DataFrame.
 
 #### Box Plot
 - Highlights the spread of values and potential outliers.
-- 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 # Data structure
 print(df.shape)
